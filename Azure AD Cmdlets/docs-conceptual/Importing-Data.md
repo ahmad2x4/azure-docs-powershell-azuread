@@ -42,7 +42,7 @@ Here is the script that you can use to import the CSV file as shown and create n
 
 $Admin = "Admin@contoso.com"
 $AdminPassword = "my password"
-$Directory = "contoso.com"
+$DirectoryName = "contoso.com"
 $NewUserPassword = "newuserspasswords"
 $CsvFilePath = "C:\work\users.csv"
 
